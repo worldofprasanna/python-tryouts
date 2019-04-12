@@ -4,25 +4,11 @@
 
 > Repo to hold the python learnings
 
-TODO: Fill out this long description.
-
 ## Table of Contents
 
-- [Install](#install)
-- [Usage](#usage)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Install
-
-```
-```
-
-## Usage
-
-```
-```
 
 ## Maintainers
 
